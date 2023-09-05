@@ -1,0 +1,12 @@
+hr\algebra\bll\services\MovieService.class
+hr\algebra\transferable\DirectorTransferable.class
+hr\algebra\bll\services\DuplicateManagementService.class
+hr\algebra\bll\blModels\ActorModel.class
+hr\algebra\bll\blModels\UserModel.class
+hr\algebra\transferable\ItemsTransferable.class
+hr\algebra\bll\blModels\DirectorModel.class
+hr\algebra\transferable\ActorTransferable.class
+hr\algebra\bll\services\ActorService.class
+hr\algebra\bll\services\UserService.class
+hr\algebra\bll\services\DirectorService.class
+hr\algebra\bll\blModels\MovieModel.class

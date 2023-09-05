@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss>
+    <channel>
+        <item>
+            <title>Anđeo tame</title>
+            <description>Glavnu ulogu tumači Anna Camp, što je samo po sebi dovoljan razlog da pogledate ovaj horor film. Vjerujte, sigurno nećete ostati razočarani!
+
+Mlada majka, shrvana krivnjom nakon nestanka svog sina prije 5 godina, dobiva bizarnu ponudu da sazna istinu i ispravi stvari. Koliko je spremna platiti za iskupljenje? 
+20.35, 22.30</description>
+            <godina>2023</godina>
+            <zanr>horor</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci>
+                <glumac>
+                    <firstName>Anna</firstName>
+                    <lastName>Camp</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>John</firstName>
+                    <lastName>Ales</lastName>
+                </glumac>
+            </glumci>
+            <redatelji>
+                <redatelj>
+                    <firstName>Thomas</firstName>
+                    <lastName>Marchese</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>100</trajanje>
+            <plakat>assets\Anđeo tame.jpg</plakat>
+        </item>
+        <item>
+            <title>Barbie</title>
+            <description>Ružičasta avantura koja će oduševiti sve generacije. Ulogu ikonične lutke preuzima Margot Robbie, a njezinu bolju polovicu Kena utjelovljuje Ryan Gosling.
+Režiju potpisuje Greta Gerwig dok zvjezdani cast uključuje još i Willa Ferrella, Kate McKinnon, Simu Liu, Michaela Ceru i Americu Ferreru. Očekivano, scenografijom dominira upečatljiva ružičasta boja, a cijela estetika filma inspirirana je prividom savršenog života i izgleda junaka filma.
+14.00, 16.05, 19.15, 21.30</description>
+            <godina>2023</godina>
+            <zanr>avantura, komedija</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci>
+                <glumac>
+                    <firstName>Margot</firstName>
+                    <lastName>Robbie</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Ryan</firstName>
+                    <lastName>Gosling</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Helen</firstName>
+                    <lastName>Mirren</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Will</firstName>
+                    <lastName>Ferrell</lastName>
+                </glumac>
+            </glumci>
+            <redatelji>
+                <redatelj>
+                    <firstName>Greta</firstName>
+                    <lastName>Gerwig</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>114</trajanje>
+            <plakat>assets\Barbie.jpg</plakat>
+        </item>
+        <item>
+            <title>Dvorac straha</title>
+            <description>Fantastičnu zvjezdanu ekipu filma predvode Rosario Dawson, Tiffany Haddish, Owen Wilson, Danny DeVito, Jamie Lee Curtis i Jared Leto!
+U ovoj misterioznoj porodičnoj avanturi temeljenoj na klasičnoj Disneyevoj atrakciji iz tematskih parkova, liječnica i njezin 9-godišnji sin, koji žele započeti novi život, useljavaju se u neobično pristupačnu vilu u New Orleansu. Ubrzo otkrivaju da je to mjesto puno više nego što su očekivali. Očajnički tražeći pomoć oni angažiraju šaroliku ekipu takozvanih duhovnih stručnjaka kako bi im pomogli osloboditi dom od nadnaravnih skvotera.
+14.00, 18.15</description>
+            <godina>2023</godina>
+            <zanr>komedija, avantura, porodični</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci>
+                <glumac>
+                    <firstName>LaKeith</firstName>
+                    <lastName>Stanfield</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Tiffany</firstName>
+                    <lastName>Haddish</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Owen</firstName>
+                    <lastName>Wilson</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Danny</firstName>
+                    <lastName>DeVito</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Rosario</firstName>
+                    <lastName>Dawson</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Chase</firstName>
+                    <lastName>W. Dillon</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Dan</firstName>
+                    <lastName>Levy</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Jamie</firstName>
+                    <lastName>Lee Curtis</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Jared</firstName>
+                    <lastName>Leto</lastName>
+                </glumac>
+            </glumci>
+            <redatelji>
+                <redatelj>
+                    <firstName>Justin</firstName>
+                    <lastName>Simien</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>125</trajanje>
+            <plakat>assets\Dvorac straha.jpg</plakat>
+        </item>
+        <item>
+            <title>Indiana Jones i artefakt sudbine</title>
+            <description>Harrison Ford se vraća u ulozi najpoznatijeg profesora arheologije u petom filmu kultne franšize čija je radnja smještena u kasne šezdesete godine prošlog stoljeća, a čitava je priča povezana sa svemirskim programom.
+16.20</description>
+            <godina>2023</godina>
+            <zanr>akcija, avantura</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci>
+                <glumac>
+                    <firstName>Harrison</firstName>
+                    <lastName>Ford</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Mads</firstName>
+                    <lastName>Mikkelsen</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Antonio</firstName>
+                    <lastName>Banderas</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Phoebe</firstName>
+                    <lastName>Waller-Bridge</lastName>
+                </glumac>
+            </glumci>
+            <redatelji>
+                <redatelj>
+                    <firstName>James</firstName>
+                    <lastName>Mangold</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>154</trajanje>
+            <plakat>assets\Indiana Jones i artefakt sudbine.jpg</plakat>
+        </item>
+        <item>
+            <title>Mala sirena - sink</title>
+            <description>Dugoočekivani i Oscarom nagrađeni glazbeni klasik studija Disney ove godine dolazi u igranoj verziji priče o djevojci iz mora koja zbog ljubavi odlučuje napustiti svoj bajkoviti podvodni svijet.
+Najmlađa kćer kralja Tritona, Ariel, žudi saznati više o svijetu s druge strane mora, a dok obilazi površinu, zaljubljuje se u poletnog princa Erica. Dok je sirenama zabranjeno komunicirati s ljudima, Ariel mora slijediti svoje srce. Sklapa dogovor sa zlom morskom vješticom Ursulom, što joj daje priliku da iskusi život na kopnu, ali naposljetku dovodi svoj život – i očevu krunu – u opasnost.
+11.15</description>
+            <godina>2023</godina>
+            <zanr>avantura</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci>
+                <glumac>
+                    <firstName>Lana</firstName>
+                    <lastName>Meniga</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Mateja</firstName>
+                    <lastName>Majerle</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Dino</firstName>
+                    <lastName>Jelusić</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Martina</firstName>
+                    <lastName>Tomčić</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Frano</firstName>
+                    <lastName>Mašković</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Anja</firstName>
+                    <lastName>Šovagović Despot</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Goran</firstName>
+                    <lastName>Grgić</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Jan</firstName>
+                    <lastName>Kerekeš</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Ruben</firstName>
+                    <lastName>Carović</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Ana</firstName>
+                    <lastName>Maras Harmander</lastName>
+                </glumac>
+            </glumci>
+            <redatelji>
+                <redatelj>
+                    <firstName>Rob</firstName>
+                    <lastName>Marshall</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>135</trajanje>
+            <plakat>assets\Mala sirena - sink.jpg</plakat>
+        </item>
+        <item>
+            <title>Meg 2: Put u dubinu</title>
+            <description>Nastavak filma iz 2018. godine. Jason Statham i njegov tim vraćaju se u daljnje istraživanje Marijanske brazde gdje će se suočiti s novim, još većim zastrašujućim stvorenjima.
+Zaronite u neistražene vode s Jasonom Stathamom i globalnom akcijskom ikonom Wu Jingom dok vode odvažni istraživački tim ronioca u najveće dubine oceana. Njihovo putovanje ubrzo postaje kaos kada zlonamjerna rudarska kompanija zaprijeti njihovoj misiji i natjera ih na bitku za preživljavanje s visokim ulozima. Suprotstavljeni kolosalnim morskim psima megalodonima s jedne strane, te nemilosrdnim otimačima s druge, naši heroji moraju nadmudriti te nemilosrdne predatore u utrci s vremenom.
+15.30, 19.20, 22.15</description>
+            <godina>2023</godina>
+            <zanr>akcija, avantura</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci>
+                <glumac>
+                    <firstName>Jason</firstName>
+                    <lastName>Statham</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Cliff</firstName>
+                    <lastName>Curtis</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Sienna</firstName>
+                    <lastName>Guillory</lastName>
+                </glumac>
+            </glumci>
+            <redatelji>
+                <redatelj>
+                    <firstName>Ben</firstName>
+                    <lastName>Wheatley</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>116</trajanje>
+            <plakat>assets\Meg 2_ Put u dubinu.jpg</plakat>
+        </item>
+        <item>
+            <title>Napad na Pariz</title>
+            <description>Dobitnik nagrade Oscar® Jean Dujardin u glavnoj ulozi  u trileru Cédrica Jimeneza.
+
+Film prati francuske antiterorističke službe tijekom lova na osumnjičene nakon napada u Parizu 13. 11. 2015.
+22.35</description>
+            <godina>2022</godina>
+            <zanr>kriminalistički, triler</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci>
+                <glumac>
+                    <firstName>Jean</firstName>
+                    <lastName>Dujardin</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Anais</firstName>
+                    <lastName>Demoustier</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Sandrine</firstName>
+                    <lastName>Kiberlain</lastName>
+                </glumac>
+            </glumci>
+            <redatelji>
+                <redatelj>
+                    <firstName>Cédric</firstName>
+                    <lastName>Jimenez</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>106</trajanje>
+            <plakat>assets\Napad na Pariz.jpg</plakat>
+        </item>
+        <item>
+            <title>Nemoguća misija: Odmazda - prvi dio</title>
+            <description>U filmu NEMOGUĆA MISIJA ODMAZDA – PRVI DIO Ethan Hunt (Tom Cruise) i njegov IMF tim kreću u najopasniju misiju do sada: da pronađu novo, zastrašujuće oružje koje prijeti cijelom čovječanstvu, prije nego što padne u pogrešne ruke. U igri su sudbina svijeta i kontola budućnosti, mračne sile iz Ethanove  prošlosti se približavaju i smrtonosna trka oko svijeta počinje. Suočen sa misterioznim, svemoćnim neprijateljem, Ethan je primoran da shvati da ništa ne može biti važnije od njegove misije, čak ni životi onih do kojih mu je najviše stalo.16.15</description>
+            <godina>2023</godina>
+            <zanr>akcija, avantura</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci>
+                <glumac>
+                    <firstName>Tom</firstName>
+                    <lastName>Cruise</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Hayley</firstName>
+                    <lastName>Atwell</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Ving</firstName>
+                    <lastName>Rhames</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Simon</firstName>
+                    <lastName>Pegg</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Rebecca</firstName>
+                    <lastName>Ferguson</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Vanessa</firstName>
+                    <lastName>Kirby</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Esai</firstName>
+                    <lastName>Morales</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Pom</firstName>
+                    <lastName>Klementieff</lastName>
+                </glumac>
+            </glumci>
+            <redatelji>
+                <redatelj>
+                    <firstName>Christopher</firstName>
+                    <lastName>McQuarrie</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>163</trajanje>
+            <plakat>assets\Nemoguća misija_ Odmazda - prvi dio.jpg</plakat>
+        </item>
+        <item>
+            <title>Nikica: Kako je sve počelo - sink</title>
+            <description>Film je nastao prema knjizi “Nikica”, francuskog autora Renea Goscinnyja, autora dobro poznatih priča o Asterixu i Lucky Lukeu. 
+
+Negdje između Montmartrea i Saint-Germain-des-Présa, Jean-Jacques Sempé i René Goscinny  oživljavaju nestašnog i umiljatog dječaka Nikicu na velikom bijelom papiru. Od školskih igara i tučnjava do šala i druženja u ljetnom kampu, Nikica živi veselo i ispunjeno djetinjstvo. Sempé i Goscinny će ispričati priču o svom prijateljstvu, karijeri i otkriti djetinjstvo ispunjeno nadama i snovima.
+11.30</description>
+            <godina>2022</godina>
+            <zanr>animirani</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci/>
+            <redatelji>
+                <redatelj>
+                    <firstName>Amandine</firstName>
+                    <lastName>Fredon</lastName>
+                </redatelj>
+                <redatelj>
+                    <firstName>Benjamin</firstName>
+                    <lastName>Massoubre</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>85</trajanje>
+            <plakat>assets\Nikica_ Kako je sve počelo - sink.jpg</plakat>
+        </item>
+        <item>
+            <title>Oppenheimer</title>
+            <description>Oppenheimer je biografski film o američkom fizičaru J. Robertu Oppenheimeru, koji je prozvan „ocem atomske bombe“. Oppenheimer je bio glavni čovjek Operacije Manhattan, akcije američkih vlasti da stvore nuklearnu bombu i time dobiju prevlast u II. svjetskom ratu, a film pokazuje taj proces od entuzijazma do veselja zbog uspjeha i zabrinutosti zbog rezultata.
+Glavnu ulogu u filmu ima Cillian Murphy. Oppenheimer je čak šesta suradnja irskoga glumca i Christophera Nolana. Uz to što je glumio negativca u sva tri filma iz Nolanove Batman trilogije, Cillian Murphy imao je značajne uloge i u njegovim spektaklima Dunkirk i Početak. Plodonosna suradnja je i ovdje nastavljena, a iz prvih kadrova čini se da je Murphy bio odličan izbor za ulogu fizičara Oppenheimera.
+Uz Murphyja, u filmu glume i Emily Blunt, Robert Downey Jr., Matt Damon, Rami Malek, Florence Pugh, Benny Safdie, Michael Angarano, Josh Hartnett i Kenneth Branagh.
+21.30</description>
+            <godina>2023</godina>
+            <zanr>epski triler</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci>
+                <glumac>
+                    <firstName>Cillian</firstName>
+                    <lastName>Murphy</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Emily</firstName>
+                    <lastName>Blunt</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Robert</firstName>
+                    <lastName>Downey</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Matt</firstName>
+                    <lastName>Damon</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Rami</firstName>
+                    <lastName>Malek</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Florence</firstName>
+                    <lastName>Pugh</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Benny</firstName>
+                    <lastName>Safdie</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Michael</firstName>
+                    <lastName>Angarano</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Josh</firstName>
+                    <lastName>Hartnett i Kenneth Branagh</lastName>
+                </glumac>
+            </glumci>
+            <redatelji>
+                <redatelj>
+                    <firstName>Christopher</firstName>
+                    <lastName>Nolan</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>180</trajanje>
+            <plakat>assets\Oppenheimer.jpg</plakat>
+        </item>
+        <item>
+            <title>Paučina</title>
+            <description>Nešto strašno je u zidovima!
+
+Osmogodišnjeg Petera muči tajanstveno, stalno kucanje unutar zida njegove spavaće sobe – kuckanje za koje njegovi roditelji inzistiraju da je samo u njegovoj mašti. Kako se Peterov strah pojačava, on vjeruje da bi njegovi roditelji mogli skrivati strašnu, opasnu tajnu i dovodi u pitanje njihovo povjerenje. A za dijete, što može biti strašnije od toga?
+20.55</description>
+            <godina>2023</godina>
+            <zanr>horor, triler</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci>
+                <glumac>
+                    <firstName>Lizzy</firstName>
+                    <lastName>Caplan</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Antony</firstName>
+                    <lastName>Starr</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Cleopatra</firstName>
+                    <lastName>Coleman</lastName>
+                </glumac>
+            </glumci>
+            <redatelji>
+                <redatelj>
+                    <firstName>Samuel</firstName>
+                    <lastName>Bodin</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>88</trajanje>
+            <plakat>assets\Paučina.jpg</plakat>
+        </item>
+        <item>
+            <title>Prinčevi pustinje</title>
+            <description>U srcu beskrajne pustinje, njihovo će prijateljstvo prebroditi sve izazove!
+
+Zodi, dvanaestogodišnji mladi nomad, u pustinji otkriva napušteno mladunče deve. Uzima ga pod svoje okrilje, hrani i postaje mu najbolji prijatelj. Zodi od veterinara saznaje kako je njegova deva zapravo izuzetno brzi trkač koji bi njegovom plemenu mogao donijeti veliki novac. Međutim, njegove kvalitete izazivaju pohlepu Tareka, krijumčara iz regije. Kako bi spasio svojeg sada već najboljeg prijatelja i sebe, Zodi odlučuje pobjeći i prijeći pustinju kako bi stigao u Abu Dhabi na najveću utrku deva na svijetu i tako spasio i njega i svoje pleme. 
+11.55, 14.00, 17.15</description>
+            <godina>2023</godina>
+            <zanr>avantura</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci>
+                <glumac>
+                    <firstName>Yassir</firstName>
+                    <lastName>Drief</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Alexandra</firstName>
+                    <lastName>Lamy</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Youssef</firstName>
+                    <lastName>Hajdi</lastName>
+                </glumac>
+            </glumci>
+            <redatelji>
+                <redatelj>
+                    <firstName>Eric</firstName>
+                    <lastName>Barbier</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>111</trajanje>
+            <plakat>assets\Prinčevi pustinje.jpg</plakat>
+        </item>
+        <item>
+            <title>Roboti</title>
+            <description>Godine 2032., nakon što je napredna robotika omogućila čovječanstvu da koristi realistične androide kao sluge i fizičke radnike, imućni stanovnici predgrađa Elaine i Charles koriste svoje dvojnike androida kako bi izbjegli vremenska ograničenja vezana uz veze. Međutim, kada varalice shvate da se zapravo zaljubljuju, ukradu identitet svojih vlasnika i daju se u bijeg, prisiljavajući Elaine i Charlesa da se udruže i vrate svoje živote.
+I Charlie i Elaine nisu dobri ljudi. Elaine koristi muškarce da ima lijepe stvari i zalaže nešto od toga da plati svoje račune. Charlie izlazi sa ženama samo radi seksa, a da stvar bude gora loš je u krevetu. No, budući da oboje koriste spojeve kako bi dobili ono što žele, shvaćaju da postoji lakši način da dobiju ono što žele 2032. godine.
+19.10</description>
+            <godina>2023</godina>
+            <zanr>romantična komedija</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci>
+                <glumac>
+                    <firstName>Jack</firstName>
+                    <lastName>Whitehall</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Shailene</firstName>
+                    <lastName>Woodley</lastName>
+                </glumac>
+            </glumci>
+            <redatelji>
+                <redatelj>
+                    <firstName>Anthony</firstName>
+                    <lastName>Hines</lastName>
+                </redatelj>
+                <redatelj>
+                    <firstName>Casper</firstName>
+                    <lastName>Christensen</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>93</trajanje>
+            <plakat>assets\Roboti.jpg</plakat>
+        </item>
+        <item>
+            <title>Rubi tinejdžerka: Morsko čudovište - sink</title>
+            <description>Ponekad se heroj, koji vam je suđeno da budete, nalazi odmah ispod površine.
+
+Ovog ljeta, Dream Works Animation zaronit će u uzburkane vode srednje škole i predstaviti nam urnebesnu, iskrenu akcionu komediju o stidljivoj tinejdžerki koja otkriva da je dio legendarne kraljevske loze mitskih morskih čudovišta i da je njena sudbina, u dubinama okeana, veća nego što je ikada mogla i da sanja.
+
+Simpatična, neobična šesnaestogodišnja Ruby Gilman (Lana Condor, To All the Boys I’ve Loved Before) očajnički pokušava da se uklopi u Oceanside srednju školu, ali, uglavnom je tamo potpuno nevidljiva.
+
+Pokazuje matematiku svojoj simpatiji, skejteru (Jaboukie Young-White, Ralf rastura internet) koji joj se, kako se čini, divi samo zbog njenih fraktala. Ruby ne može da ide na plažu da se druži sa drugom cool djecom, jer joj je previše zaštitnički nastrojena supermama (nominovana za Oskara Toni Collette) zabranila da ikada uđe u vodu.
+
+Ali kada prekrši glavno mamino pravilo, Ruby će otkriti da je direktni potomak ratnice i kraljice morskih čudovišta i da je predodređena da naslijedi tron svoje bake zapovjednice (dobitnica Oskara, Jane Fonda), Kraljice-ratnice od Sedam Mora. 
+
+Krakeni, morska čudovišta, zakleli su se da će štititi okeane svijeta od sujetnih moći gladnih sirena, protiv kojih se bore već eonima. Ali, postoji jedan veliki problem u vezi s tim: ispostavit će se da je školska ljepotica i popularna djevojčica Chelsea (dobitnica Emmya, Annie Murphy) baš sirena. Na kraju, Ruby će morati da prihvati ono što jeste i potrudi se da zaštiti one koje najviše voli.
+11.45</description>
+            <godina>2023</godina>
+            <zanr>animirani</zanr>
+            <pubDate>2023-08-11T22:00:00</pubDate>
+            <glumci/>
+            <redatelji>
+                <redatelj>
+                    <firstName>Kirk</firstName>
+                    <lastName>DeMicco</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>91</trajanje>
+            <plakat>assets\Rubi tinejdžerka_ Morsko čudovište - sink.jpg</plakat>
+        </item>
+        <item>
+            <title>Blue Beetle</title>
+            <description>Blue Beetle je akcijska, moderna priča koja daje svjež, zabavan pogled na žanr superheroja u kombinaciji odličnog humora, akcije i emocija koji se ne smiju propustiti.
+Ova epska avantura istražuje kako Jaime Reyes, običan mladić koji je tek diplomirao na fakultetu, nevoljko odgovara na poziv tajanstvene i moćne relikvije koja zauvijek mijenja njegovu sudbinu. On uz pomoć svoje porodice i izvanrednog tehnološki naprednog super odijela ... otkriva da može spasiti svijet.
+19.00</description>
+            <godina>2023</godina>
+            <zanr>akcija, avantura</zanr>
+            <pubDate>2023-08-16T22:00:00</pubDate>
+            <glumci>
+                <glumac>
+                    <firstName>Xolo</firstName>
+                    <lastName>Mariduena</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Susan</firstName>
+                    <lastName>Sarandon</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Bruna</firstName>
+                    <lastName>Marquezine</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Raoul</firstName>
+                    <lastName>Max Trujillo</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Harvey</firstName>
+                    <lastName>Guillén</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>George</firstName>
+                    <lastName>Lopez</lastName>
+                </glumac>
+                <glumac>
+                    <firstName>Adriana</firstName>
+                    <lastName>Barraza</lastName>
+                </glumac>
+            </glumci>
+            <redatelji>
+                <redatelj>
+                    <firstName>Angel</firstName>
+                    <lastName>Manuel Soto</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>128</trajanje>
+            <plakat>assets\Blue Beetle.jpg</plakat>
+        </item>
+        <item>
+            <title>The First Slam Dunk</title>
+            <description>19.30</description>
+            <godina>2022</godina>
+            <zanr>animirani</zanr>
+            <pubDate>2023-08-24T22:00:00</pubDate>
+            <glumci/>
+            <redatelji>
+                <redatelj>
+                    <firstName>Takehiko</firstName>
+                    <lastName>Inoue</lastName>
+                </redatelj>
+            </redatelji>
+            <trajanje>124</trajanje>
+            <plakat>assets\The First Slam Dunk.jpg</plakat>
+        </item>
+    </channel>
+</rss>

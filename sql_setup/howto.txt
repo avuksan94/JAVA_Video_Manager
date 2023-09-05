@@ -1,0 +1,34 @@
+1. TCP/IP
+
+run the Computer Management applet from 
+    Control Panel→Administrative Tools→Computer Management, 
+    where you should find the configuration manager installed 
+        (Services and applications)
+            SQL Server Configuration Manager
+
+then:
+->Expand SQL Server Network Configuration-> Protocols for MSSQLServer 
+	-> Right click on TCP/IP -> Enable
+	-> Double Click on TCP/IP 
+	-> IP Adresses -> put port 1433 under IPAll TCP port.
+
+(see tcp_ip.png image)
+
+Creating a user - if a user 'sa' already exists, create a user 'sas'
+USE [master]
+GO
+
+CREATE LOGIN "sas"
+WITH PASSWORD = N'SQL',
+CHECK_POLICY = OFF,
+CHECK_EXPIRATION = OFF;
+GO
+EXEC sp_addsrvrolemember
+@loginame = N'sas',
+@rolename = N'sysadmin';
+
+To be able to log in with this user, you must enable SQL Server authentication:
+Open a Connection to the database -> Properties -> Security -> Select the "SQL Server and Windows Authentication mode" radio button
+(see image sql_server_auth.png)
+Possible issues -> if it doesn't allow user creation -> run as admin
+Restart SQL Server
